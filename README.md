@@ -17,7 +17,7 @@ A responsive single-page portfolio presenting my current studies, skills and pra
 - Scroll progress and active section navigation
 - Section reveal effects with reduced-motion support
 - Project summaries linking to the public repositories
-- Downloadable one-page CV: [View updated CV](CV.md)
+- Updated CV: [View updated CV](CV.md)
 
 ## Run locally
 
