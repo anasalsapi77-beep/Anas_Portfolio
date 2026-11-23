@@ -28,7 +28,7 @@ Built an Arabic-first, RTL library management web app with manager/member worksp
 ### [ApplyTrail - Job Application Tracker](https://github.com/anasalsapi77-beep/ApplyTrail-Complete)
 **Node.js · Express 5 · MySQL · Docker · Docker Compose**
 
-Developed a full-stack tracker with registration/login, dashboard, application pipeline, reminders, activity history and CSV export. Implemented REST API routes for authentication and application/reminder CRUD, with bcrypt, JWT HttpOnly cookies, Helmet, rate limiting and input validation. Local Docker Compose setup; not deployed as a public production service.
+Developed a full-stack tracker with registration/login, dashboard, application pipeline, reminders, activity history and CSV export. Implemented REST API routes for authentication and application/reminder CRUD, with bcrypt, JWT HttpOnly cookies, Helmet, rate limiting and input validation. Local Docker Compose setup; not a publicly hosted production service.
 
 ### [TechStore - Responsive Storefront](https://github.com/anasalsapi77-beep/TechStore) · [Live demo](https://anasalsapi77-beep.github.io/TechStore/)
 **HTML5 · CSS3 · JavaScript**
