@@ -214,3 +214,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .approach-mark { width: 70px; height: 70px; }
   .project-visual { min-height: 290px; }
 }
+
+
+/* Repository links in the project list */
+.project-status[href] { text-decoration: none; cursor: pointer; transition: color .2s ease; }
+.project-status[href]:hover { color: var(--accent); }
