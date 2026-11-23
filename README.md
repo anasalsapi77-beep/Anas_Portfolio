@@ -39,5 +39,6 @@ The form prepares an email using the visitor's email application. It does not su
 
 ## Other projects
 
-- [TechStore](https://github.com/anasalsapi77-beep/TechStore) — responsive front-end storefront demo
-- [ApplyTrail](https://github.com/anasalsapi77-beep/ApplyTrail-Complete) — local full-stack job application tracker
+- [WARAQ Library Studio](https://github.com/anasalsapi77-beep/Waraq-Library-Studio) — Arabic-first full-stack library management app using Python and SQLite. Runs locally; no public hosted demo yet.
+- [TechStore](https://github.com/anasalsapi77-beep/TechStore) — responsive front-end storefront demo with a GitHub Pages live preview.
+- [ApplyTrail](https://github.com/anasalsapi77-beep/ApplyTrail-Complete) — local full-stack job application tracker using Node.js, Express and MySQL.
