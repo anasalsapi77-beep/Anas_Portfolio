@@ -1,49 +1,44 @@
 # Anas Al Sapi
 
-**Software Engineering Student | Web Development & Full-Stack Projects**  
-Cyberjaya, Malaysia · [alsapianas@gmail.com](mailto:alsapianas@gmail.com) · [GitHub profile](https://github.com/anasalsapi77-beep) · [Portfolio](https://anasalsapi77-beep.github.io/Anas_Portfolio/)
+**Software Engineering Student | Web & Full-Stack Development**  
+Cyberjaya, Malaysia · [alsapianas@gmail.com](mailto:alsapianas@gmail.com) · [GitHub](https://github.com/anasalsapi77-beep) · [Portfolio](https://anasalsapi77-beep.github.io/Anas_Portfolio/)
 
-## Profile
+**Availability:** Open to remote opportunities, internships and junior developer roles.
 
-First-year Software Engineering student at City University Malaysia with an AI focus. Building practical software projects across responsive front-end development and full-stack application fundamentals, including a Python/SQLite library management system and a Node.js/MySQL job application tracker. Interested in internship and junior opportunities to continue learning through practical development work.
+## Professional Profile
 
-## Technical skills
+First-year Software Engineering student at City University Malaysia with an AI focus, building practical web and full-stack applications. Hands-on project work spans responsive front ends, Python and Node.js back ends, REST-style APIs, relational databases, authentication and application security. Interested in remote or hybrid internships and junior opportunities where I can contribute, learn and grow with a development team.
 
-- **Programming and scripting:** JavaScript, Python, SQL, PowerShell, Windows Batch
-- **Web technologies:** HTML5, CSS3
-- **Backend:** Python, Node.js, Express 5
-- **Databases:** SQLite, MySQL 8.4
-- **Tools and configuration:** Git, GitHub, Docker, Docker Compose, YAML
+## Technical Skills
 
-## Selected projects
+- **Languages & web:** JavaScript (vanilla), Python, SQL, HTML5, CSS3
+- **Backend & APIs:** Node.js, Express 5, REST API endpoints, CRUD operations, authentication flows, JSON health endpoints, CSV export
+- **Databases:** MySQL 8.4, SQLite, relational schemas, SQL queries
+- **Security:** bcrypt password hashing, JWT with HttpOnly cookies, Helmet security headers, login rate limiting, input validation, CSRF protection, PBKDF2-HMAC-SHA256, session rotation, role-based access control
+- **Tools & delivery:** Git, GitHub, GitHub Actions, Docker, Docker Compose, YAML, PowerShell, Windows Batch, unit and HTTP testing
+- **UI & implementation:** Responsive web design, mobile navigation, Arabic RTL and English LTR interfaces, accessibility-minded interactions, reduced-motion support
 
-### WARAQ Library Studio — Full-stack library management application
-**Python · SQLite · HTML5 · CSS3 · JavaScript**
+## Selected Projects
 
-Built an Arabic-first RTL library management app with manager/member workspaces, a searchable book and project catalogue, member accounts, borrowing and returns, due-date tracking and account settings. Uses SQLite for local persistence and is intended for local use and academic demonstration.
+### [WARAQ Library Studio](https://github.com/anasalsapi77-beep/Waraq-Library-Studio)
+**Python · SQLite · HTML · CSS · JavaScript**
 
-Repository: https://github.com/anasalsapi77-beep/Waraq-Library-Studio
+Built an Arabic-first, RTL library management web app with manager/member workspaces, searchable catalogue, member accounts, borrowing and returns, due-date tracking and account settings. Implemented authentication and security controls, SQLite persistence, a health endpoint and automated service/HTTP tests. Local application; no public production demo.
 
-### ApplyTrail — Job application tracker
-**JavaScript · Node.js · Express 5 · SQL · MySQL · Docker Compose · PowerShell**
+### [ApplyTrail - Job Application Tracker](https://github.com/anasalsapi77-beep/ApplyTrail-Complete)
+**Node.js · Express 5 · MySQL · Docker · Docker Compose**
 
-Built a local full-stack tracker with account registration and login, a job-application pipeline, dashboard, reminders, activity history and CSV export. Includes password hashing and HttpOnly JWT cookies. The repository documents local Docker-based setup; it is not a production-hosted service.
+Developed a full-stack tracker with registration/login, dashboard, application pipeline, reminders, activity history and CSV export. Implemented REST API routes for authentication and application/reminder CRUD, with bcrypt, JWT HttpOnly cookies, Helmet, rate limiting and input validation. Local Docker Compose setup; not deployed as a public production service.
 
-Repository: https://github.com/anasalsapi77-beep/ApplyTrail-Complete
-
-### TechStore — Front-end storefront demo
+### [TechStore - Responsive Storefront](https://github.com/anasalsapi77-beep/TechStore) · [Live demo](https://anasalsapi77-beep.github.io/TechStore/)
 **HTML5 · CSS3 · JavaScript**
 
-Built a responsive multi-page storefront with catalogue browsing, product details, search and category filtering, cart, wishlist and demo checkout. Uses browser storage; it has no backend or real payment processing.
+Created a multi-page storefront demo with product catalogue/details, search, category filters, sorting, cart and wishlist. Uses browser storage for demo state and includes a front-end-only checkout; it does not process real payments or use a backend.
 
-Repository: https://github.com/anasalsapi77-beep/TechStore · Live demo: https://anasalsapi77-beep.github.io/TechStore/
+### [Personal Portfolio](https://github.com/anasalsapi77-beep/Anas_Portfolio) · [Live site](https://anasalsapi77-beep.github.io/Anas_Portfolio/)
+**HTML5 · CSS3 · JavaScript · GitHub Pages**
 
-### Personal Portfolio — Responsive profile website
-**HTML5 · CSS3 · JavaScript**
-
-Created a responsive single-page portfolio presenting education, technical toolkit, selected projects and contact details, with mobile navigation and motion preferences.
-
-Repository: https://github.com/anasalsapi77-beep/Anas_Portfolio · Live site: https://anasalsapi77-beep.github.io/Anas_Portfolio/
+Built and published a responsive portfolio with project links, mobile navigation, scroll interactions and reduced-motion support.
 
 ## Education
 
@@ -54,4 +49,4 @@ Repository: https://github.com/anasalsapi77-beep/Anas_Portfolio · Live site: ht
 - Arabic — Native
 - English — Good working proficiency
 
-*Project descriptions reflect the public repositories. HTML and CSS are web technologies; SQL is used for relational databases; PowerShell and Windows Batch are scripting tools; YAML is configuration. No professional employment, certifications or production deployment are claimed.*
+*Project information reflects the public repositories. The CV lists hands-on project technologies and does not claim professional employment, certifications, external API integrations or production deployment for local applications.*
