@@ -2,6 +2,8 @@
 
 A responsive single-page portfolio presenting my current studies, skills and practical web projects.
 
+**Portfolio site:** [Open the portfolio](https://anasalsapi77-beep.github.io/Anas_Portfolio/) *(GitHub Pages deployment)*
+
 ## Built with
 
 - HTML5 for semantic page structure
