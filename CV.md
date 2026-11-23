@@ -9,10 +9,11 @@ First-year Software Engineering student at City University Malaysia with an AI f
 
 ## Technical skills
 
-- **Web:** HTML5, CSS3, JavaScript (vanilla)
-- **Database:** SQL, MySQL 8.4
+- **Programming and scripting:** JavaScript, SQL, PowerShell, Windows Batch
+- **Web technologies:** HTML5, CSS3
 - **Backend:** Node.js, Express 5
-- **Tools:** Git, GitHub, Docker, Docker Compose
+- **Database:** MySQL 8.4
+- **Tools and configuration:** Git, GitHub, Docker, Docker Compose, YAML
 - **Currently learning:** Python
 
 ## Selected projects
@@ -25,9 +26,9 @@ Built a responsive product storefront with catalogue browsing, product details, 
 Repository: https://github.com/anasalsapi77-beep/TechStore
 
 ### ApplyTrail — Job application tracker
-**JavaScript · Node.js · Express 5 · SQL · MySQL · Docker Compose**
+**JavaScript · Node.js · Express 5 · SQL · MySQL · PowerShell · Windows Batch · Docker Compose**
 
-Built a full-stack local application with account registration and login, a job-application pipeline, dashboard, reminders, activity history and CSV export. Includes password hashing and HttpOnly JWT cookies. The repository documents local Docker-based setup; it is not presented as a production-hosted service.
+Built a full-stack local application with account registration and login, a job-application pipeline, dashboard, reminders, activity history and CSV export. Includes password hashing and HttpOnly JWT cookies. PowerShell and Windows Batch scripts support local setup and launching. The repository documents local Docker-based setup; it is not presented as a production-hosted service.
 
 Repository: https://github.com/anasalsapi77-beep/ApplyTrail-Complete
 
@@ -47,4 +48,4 @@ Repository: https://github.com/anasalsapi77-beep/Anas_Portfolio
 - Arabic — Native
 - English — Good working proficiency
 
-*Project descriptions reflect the public repositories. No professional employment, certifications, production deployment or unverified proficiency ratings are claimed.*
+*Project descriptions reflect the public repositories. PowerShell and Windows Batch are included as scripting/automation tools; YAML is configuration rather than a programming language. Python is listed as a current learning focus, not as a published project. No professional employment, certifications, production deployment or unverified proficiency ratings are claimed.*
