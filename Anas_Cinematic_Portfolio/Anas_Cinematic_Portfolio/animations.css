@@ -1,0 +1,25 @@
+@keyframes caretBlink { to { opacity: 0; } }
+@keyframes artDrift { 0%, 100% { transform: translateY(0) rotate(-28deg); } 50% { transform: translateY(-9px) rotate(-24deg); } }
+@keyframes artDriftReverse { 0%, 100% { transform: translateY(0) rotate(43deg); } 50% { transform: translateY(8px) rotate(47deg); } }
+@keyframes noteFloat { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+@keyframes softPulse { 0%, 100% { opacity: .6; } 50% { opacity: 1; } }
+
+.orbit-one { animation: artDrift 9s ease-in-out infinite; }
+.orbit-two { animation: artDriftReverse 12s ease-in-out infinite; }
+.note-top { animation: noteFloat 6s ease-in-out infinite; }
+.note-bottom { animation: noteFloat 7s ease-in-out infinite reverse; }
+.meta-dot { animation: softPulse 2.8s ease-in-out infinite; }
+
+[data-reveal] { opacity: 0; transform: translateY(28px); transition: opacity .8s ease, transform .8s cubic-bezier(.2,.7,.2,1); }
+[data-reveal].is-visible { opacity: 1; transform: translateY(0); }
+[data-delay="80"] { transition-delay: 80ms; }
+[data-delay="100"] { transition-delay: 100ms; }
+[data-delay="120"] { transition-delay: 120ms; }
+[data-delay="150"] { transition-delay: 150ms; }
+[data-delay="160"] { transition-delay: 160ms; }
+[data-delay="240"] { transition-delay: 240ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+  [data-reveal] { opacity: 1; transform: none; }
+}
