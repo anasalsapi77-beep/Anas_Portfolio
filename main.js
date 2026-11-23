@@ -88,7 +88,7 @@
   }
 
   if (typingTarget && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-    const phrases = ["web development", "Python applications", "thoughtful interfaces"];
+    const phrases = ["web development", "full-stack applications", "thoughtful interfaces"];
     let phraseIndex = 0;
     let characterIndex = phrases[0].length;
     let deleting = true;
